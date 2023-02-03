@@ -1,0 +1,42 @@
+/*Body*/
+body
+{
+    background-color: gray;
+}
+
+/*Uppgift 1*/
+#uppg1_h1{
+    border: solid black;
+    margin-right: 85.5%;
+    margin-left: -2%;
+    margin-bottom: 3%;
+}
+
+#uppg1{
+    margin-left: 42.5%;
+    display: flex;
+    flex-direction: column;
+}
+
+/*Uppgift 2*/
+#uppg1_h2{
+    border: solid black;
+    margin-top: 5%;
+    margin-left: 41%;
+    margin-right: 50%;
+    margin-bottom: 3%;
+}
+
+table{
+    width: 16%;
+    margin: 1%;  
+    margin-left: 38.5%; 
+}
+
+td
+{
+    border: solid black;
+    width: 16%;
+    margin: 5%;  
+    margin-left: 38.5%; 
+}
